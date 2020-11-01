@@ -21,6 +21,7 @@ Features:
 Usage:
 
 The program was created for the following reasons: difficulties in correcting commands in the console, errors in writing the command due to the human factor. Especially useful:
+
 -for Linux newcomers
 -to check long commands
 
