@@ -122,6 +122,9 @@ st.write(new_com)#,place)
 if error==0:
     st.error(text_path)
     
+    
+st.write("[Linstyle_Cli version is soon](https://github.com/sumatra717/Linstyle)")       
+    
 from PIL import Image    
 
 im = Image.open("./IMG_20201101_160949.jpg")
