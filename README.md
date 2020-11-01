@@ -1,6 +1,8 @@
 # Linstyle
 🕶️🌈 your Linux command stylist
 
+correcting Linux command
+
 Features:
 
 -delete end spaces
