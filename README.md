@@ -2,6 +2,7 @@
 🕶️🌈 your Linux command stylist
 
 Features
+
 -delete end spaces
 
 -delete 2 and more spaces in row
