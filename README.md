@@ -5,6 +5,7 @@ correcting Linux command
 
 Installation:
 
+git clone https://github.com/sumatra717/Linstyle.git
 
 pip install streamlit
 
