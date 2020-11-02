@@ -3,6 +3,10 @@
 
 correcting Linux command
 
+Installation:
+pip install streamlit
+streamlit run linstyle.py
+
 Features:
 
 -delete end spaces
