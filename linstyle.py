@@ -1,6 +1,5 @@
 import streamlit as st
-import numpy as np
-import pandas as pd
+
 error=1
 st.title('Linstyle')
 st.write("""🕶️🌈 your Linux command stylist
