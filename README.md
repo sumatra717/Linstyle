@@ -4,12 +4,15 @@
 correcting Linux command
 
 Installation:
-
+1)
 git clone https://github.com/sumatra717/Linstyle.git
 
 pip install streamlit
 
 streamlit run linstyle.py
+2) open https://share.streamlit.io/sumatra717/linstyle/main/linstyle.py
+
+
 
 Features:
 
